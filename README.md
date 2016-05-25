@@ -4,9 +4,10 @@ This script converts BibTeX .bib entries to \bibitem entries for use in LaTeX.
 
 ### How to use:
 
-1. Put the script in the folder you have the .bib file in.
-2. Run.
-3. Profit.
+1. Put all the BibTeX references you have to a file called 'refs.bib'.
+2. Put the script in the folder you have the 'refs.bib' file in.
+3. Run script.
+4. Profit.
 
 ### Acknowledgment
 
